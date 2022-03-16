@@ -1,2 +1,3 @@
 # Elefantes-que-incomodam!
-[image](https://user-images.githubusercontent.com/31494853/158600623-b00ddebc-e343-41b2-8d93-d680d263072f.png)
+![image](https://user-images.githubusercontent.com/31494853/158600748-9aaccfea-a872-41d0-a4bc-3b3d8523a36a.png)
+
